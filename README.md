@@ -1,2 +1,2 @@
 # Second-Task
-the task is about creating a **regiteration form, table and ordered list using html without css**.
+the task is about creating a **rigesteration form, table and ordered list using html without css**.
